@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BioMetric Application</string>
+    <string name="authenticate">Authentication Required</string>
+    <string name="auth_success">Authentication successful!</string>
+
+    <string name="login_biometric">Login with Biometric</string>
+    <string name="biometric_desc">use biometric for faster and \neasy access to your account</string>
+    <string name="btn_use_biometric">Use Biometric</string>
+
+</resources>
